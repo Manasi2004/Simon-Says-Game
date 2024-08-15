@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+.btn {
+    height : 70px;
+    width : 70px;
+    border : solid black 0.3rem;
+    border-radius: 20%;
+    margin : 10px;
+
+}
+
+.line-one{
+    display: flex;
+    justify-content: center;
+}
+
+.line-two{
+    display: flex;
+    justify-content: center;
+}
+
+#one {
+    background-color: #B4D6CD;
+}
+
+#two {
+    background-color: #FFDA76;
+}
+
+#three {
+    background-color: #FF8C9E;
+}
+
+#four {
+    background-color: #FF4E88;
+}
+
+.flash {
+    background-color: white !important;
+}
